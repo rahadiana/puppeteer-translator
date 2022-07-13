@@ -18,6 +18,7 @@ example command
     GetContent((Txt/remote file),Sourcelang,TargetLang).then(console.log).catch(console.error);
 
 FOR
+
 Txt/remote file = are your strings or remote file.
 
 Sourcelang = base language from ***Txt/remote file*** you can set ***auto*** for automatic detect languages.
