@@ -24,7 +24,7 @@ const GetContent = function(content, Sourcelang, TargetLang) {
               GetQuery
           } = require('./FindQuery');
           const browser = await puppeteer.launch({
-              headless: 0
+              headless: 1
           });
           const page = await browser.newPage();
           await page.setExtraHTTPHeaders({

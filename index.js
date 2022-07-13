@@ -7,4 +7,4 @@ const SourcelangUrl = 'auto'
 const TargetLang = 'ru'
 
 //GetContent(Url,SourcelangUrl,TargetLang).then(console.log).catch(console.error);
-//GetContent(Txt,Sourcelang,TargetLang).then(console.log).catch(console.error);
+GetContent(Txt,Sourcelang,TargetLang).then(console.log).catch(console.error);
