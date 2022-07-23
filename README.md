@@ -6,7 +6,7 @@ Easy translate text or remote file (txt,md,html, or not binary file) to any lang
 Clone & instal (uncomment one of function to see results)
 
        git clone  https://github.com/rahadiana/puppeteer-translator.git
-       cd youtube_scraper
+       cd puppeteer-translator
        npm i
        node index.js
 
